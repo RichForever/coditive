@@ -1,0 +1,3 @@
+[submodule "web/app/themes/coditive-theme"]
+	path = web/app/themes/coditive-theme
+	url = git@github.com:RichForever/coditive-theme.git
